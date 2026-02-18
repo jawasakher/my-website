@@ -183,12 +183,12 @@ P{
    #corses {
    padding: 7rem 0;
    }
-   #courses .section-header h2{
+   .section-header h2{
     font-size: 35px;
     margin: 15px 0;
     color: var(--dark-blue);
    }
-   #courses .section-header p{
+   .section-header p{
     color: var(--light-gray);
    }
    #courses .courses-container {
