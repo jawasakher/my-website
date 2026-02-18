@@ -72,4 +72,31 @@ export const coursesData=[
         lessons:"107 Lessons",
 
     },
-]
+];
+
+export const ratingData = [
+    {
+        id: 1,
+        stars:" ★ ★ ★ ★ ★ ",
+        img:"./persone.1.jpg",
+        description:"The course provided a comprehensive introduction to programming concepts and languages, making it an excellent choice for beginners.",
+        name:"Jawa Sakher",
+        job:"Software Engineer",
+    },
+    {
+        id: 2,
+        stars:" ★ ★ ★ ★ ",
+        img:"./persone.2.jpg",
+        description:"The course provided a comprehensive introduction to programming concepts and languages, making it an excellent choice for beginners.",
+        name:"Rawan Sakher",
+        job:"Graphic Designer",
+    },
+    {
+        id: 3,
+        stars:" ★ ★ ★ ★ ★ ",
+        img:"./persone.3.jpg",
+        description:"The course provided a comprehensive introduction to programming concepts and languages, making it an excellent choice for beginners.",
+        name:"Ali Sakher",
+        job:"Web Developer",
+    },
+];
